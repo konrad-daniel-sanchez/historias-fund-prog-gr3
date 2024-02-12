@@ -1,1 +1,6 @@
-Un perro negro de alas doradas con verde 
+<<<<<<< Updated upstream
+Un perro negro de alas doradas con verde volaba por la grande ciudad cuando vio...
+=======
+Un perro negro de alas doradas con verde se encontraba volando cerca de una
+
+>>>>>>> Stashed changes
